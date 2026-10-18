@@ -51,6 +51,7 @@ Wirkung von P-, I- und D-Anteil und das Vorgehen beim Einstellen.
 | [`TankPID.ino`](TankPID.ino) | Arduino-Sketch für den ESP32 (Regler, Sensorik, Bedienung über seriellen Monitor) |
 | [`TankSimPDF.htm`](TankSimPDF.htm) | Verknüpfung zur Online-Simulation |
 | [`PID-Regelung_Fuellstandstank.pdf`](PID-Regelung_Fuellstandstank.pdf) | Erklärung der PID-Regelung am Füllstandstank |
+| [`README.pdf`](README.pdf) | Diese Anleitung als PDF zum Ausdrucken |
 | [`PIDscreen.png`](PIDscreen.png) | Screenshot der Simulation |
 | [`LICENSE`](LICENSE) | MIT-Lizenz |
 
