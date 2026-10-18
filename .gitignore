@@ -1,0 +1,15 @@
+# Arduino / PlatformIO
+build/
+.pio/
+.vscode/
+*.bin
+*.elf
+*.hex
+
+# erzeugte Dokumente
+README.pdf
+
+# Betriebssystem
+Thumbs.db
+desktop.ini
+.DS_Store
