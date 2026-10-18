@@ -6,9 +6,6 @@ build/
 *.elf
 *.hex
 
-# erzeugte Dokumente
-README.pdf
-
 # Betriebssystem
 Thumbs.db
 desktop.ini
