@@ -1,0 +1,2 @@
+PID-Regelung von Gemini 
+     starten :   https://aistudio.google.com/apps/df3857a2-cd76-405f-8baf-101c75930356?showPreview=true&showAssistant=true&fullscreenApplet=true
